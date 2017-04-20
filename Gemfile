@@ -45,4 +45,5 @@ end
 
 gem 'resque-web', require: 'resque_web'
 gem 'puma'
+gem 'pg'
 
