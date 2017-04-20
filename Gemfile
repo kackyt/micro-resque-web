@@ -46,4 +46,5 @@ end
 gem 'resque-web', require: 'resque_web'
 gem 'puma'
 gem 'pg'
+gem "rails_12factor", group: :production
 
